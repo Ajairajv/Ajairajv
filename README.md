@@ -3,8 +3,10 @@
 <img alt="AjairajV | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Ajairaj+Venkatesan+%3C3;Ajairajv+here!!!;Welcome+to+my+GitHub+profile!" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Ajai;Welcome+to+my+profile!" alt="Ajairaj GitHub Profile">
 </div>
+
+Hi! I'm a passionate software developer with expertise in Java, Spring Boot, and microservices. I love building scalable applications like my Quiz App and exploring AI with projects like Dialogue Summarization. Check out my projects below!
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> About Me
 
